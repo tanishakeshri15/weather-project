@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, #051ec3, #2ce035);
+}
+
+.container{
+    width: 400px;
+    margin: 100px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+input{
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+h2{
+    margin-top: 20px;
+}
